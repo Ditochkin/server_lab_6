@@ -1,0 +1,28 @@
+
+[
+    {
+        "Delay": "0.2s",
+        "Class": "Right flaticon-wordpress-logo",
+        "Name": "Right WordPress Installation",
+        "Description": "First description"
+    },
+    {
+        "Delay": "0.3s",
+        "Class": "Right flaticon-windows",
+        "Name": "Right Browser Compatible",
+        "Description": "Second description"
+    },
+    {
+        "Delay": "0.4s",
+        "Class": "Right flaticon-price-tag",
+        "Name": "Right eCommerce Ready",
+        "Description": "Third description"
+    },
+    {
+        "Delay": "0.5s",
+        "Class": "Right flaticon-new-file",
+        "Name": "Right Easy to Customize",
+        "Description": "Fourth description"
+    }
+  ]
+  

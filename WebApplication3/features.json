@@ -1,0 +1,28 @@
+
+[
+    {
+        "Delay": "0.2s",
+        "Class": "flaticon-wordpress-logo",
+        "Name": "WordPress Installation",
+        "Description": "First description"
+    },
+    {
+        "Delay": "0.3s",
+        "Class": "flaticon-windows",
+        "Name": "Browser Compatible",
+        "Description": "Second description"
+    },
+    {
+        "Delay": "0.4s",
+        "Class": "flaticon-price-tag",
+        "Name": "eCommerce Ready",
+        "Description": "Third description"
+    },
+    {
+        "Delay": "0.5s",
+        "Class": "flaticon-new-file",
+        "Name": "Easy to Customize",
+        "Description": "Fourth description"
+    }
+  ]
+  
