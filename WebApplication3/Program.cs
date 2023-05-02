@@ -65,7 +65,6 @@ namespace RazorPagesGeneral
             using (var context = new AppDBContext(options))
             {
                 context.Database.EnsureCreated();
-                context.Database.Migrate();
 
                 foreach (var testimonial in context.Testimonials)
                 {
@@ -145,7 +144,6 @@ namespace RazorPagesGeneral
             using (var context = new AppDBContext(options))
             {
                 context.Database.EnsureCreated();
-                context.Database.Migrate();
 
                 context.Contacts.Add(contact);
                 context.SaveChanges();
